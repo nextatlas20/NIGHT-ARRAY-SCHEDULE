@@ -1,0 +1,5 @@
+telescope_id,name,active,allowed_modes
+T-ASTER,Aster Optical,YES,IMAGING|SPECTRO
+T-BOREAL,Boreal Dish,YES,RADIO
+T-CINDER,Cinder Surveyor,NO,IMAGING
+T-DRACO,Draco Spectrograph,YES,SPECTRO
