@@ -1,0 +1,5 @@
+telescope_id,active,accepted_count,conflict_count,cancelled_count,accepted_minutes,utilization_percent
+T-ASTER,YES,2,2,0,240,33.3
+T-BOREAL,YES,2,1,0,150,20.8
+T-CINDER,NO,0,0,0,0,0.0
+T-DRACO,YES,3,0,1,270,37.5
